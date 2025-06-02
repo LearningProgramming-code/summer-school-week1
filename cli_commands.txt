@@ -5,4 +5,13 @@
 5. hello.txt was removed.
 6. That command gives executive permissions to the file. So it can be used to run scripts and applications.
 7. it initializes git in the folder, and creates a empty repo in the folder.
-8. It tells which files are not being tracked, which have been modified, which
+8. It tells which files are not being tracked, which have been modified, which are yet to be committed etc.
+9. All files are tracked and are staged. They are ready to be comittted.
+10. Git records the current state of the project and stores it in its own hidden folder with the mssage "inital commit". Now this commit can be accessed at any point of time easily.
+11. It pushes the changes to the github repo which is updated with the most recent commit.
+12. A new branch was created and we switched to that repo
+13. It opened the current working space in visual studio code.
+
+Prettier: I have used the prettier extension to make my code more formatted and it helps in aligning it as well.
+Live server: When making changes locally before pushing it onto github, to check the changes I have used live server.
+Github pages link : https://learningprogramming-code.github.io/summer-school-week1/
