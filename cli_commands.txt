@@ -1,0 +1,8 @@
+1. It gave the present working directory. With this one can figure out which folder they are currently in and then navigate from there.
+2. It gave details about files in the current folder including name, date created and size.
+3. A new folder was created by the name of "test_folder" in our present working  directory.
+4. hello.txt was created in the current working directory.
+5. hello.txt was removed.
+6. That command gives executive permissions to the file. So it can be used to run scripts and applications.
+7. it initializes git in the folder, and creates a empty repo in the folder.
+8. It tells which files are not being tracked, which have been modified, which

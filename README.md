@@ -1,1 +1,1 @@
-# summer-school-week1
+1. This is a basic website.
